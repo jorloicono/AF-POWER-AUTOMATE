@@ -1,7 +1,7 @@
 # AF-POWER-AUTOMATE
 
 - ¿Qué es Power Automate?
-- Introducción y conceptos básicos de PA
+- Introducción y conceptos básicos de RPA
 - Creación de un flujo desde plantilla
 - Creación de un flujo desde cero
 - Creación de un flujo de botón para tareas repetitivas
@@ -13,6 +13,6 @@
 - Creación de conectores personalizados
 - Flujos de trabajo basados en procesos de negocio
 - Administración de Power Automate
-- DLP (Data Loss Prevention) en PA
+- DLP (Data Loss Prevention) en RPA
 - Auditoría de flujos
 - Información de estado de los flujos
