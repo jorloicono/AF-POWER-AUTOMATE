@@ -1,3 +1,7 @@
+# GRABACIONES
+
+- SESIÓN 1: https://transcripts.gotomeeting.com/#/s/3bc340890e06a3ba757dca34e875b084716bb9ab13056acffc0dd9e2f723545c
+
 # AF-POWER-AUTOMATE
 
 - ¿Qué es Power Automate?
