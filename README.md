@@ -4,19 +4,30 @@
 
 # AF-POWER-AUTOMATE
 
+## Introducción
+
 - ¿Qué es Power Automate?
-- Introducción y conceptos básicos de RPA
+- Conceptos básicos de RPA
 - Creación de un flujo desde plantilla
-- Creación de un flujo desde cero
-- Creación de un flujo de botón para tareas repetitivas
-- Creación de un flujo de aprobación
-- Compartir los flujos con los usuarios
-- Trouble shooting de flujos
+
+## Creación de flujos en Power Automate
+
+- Flujo desde cero
+- Flujos de botón 
+- Flujos programados
+- Flujos de aprobación
+
+## APIs, conectores y expresiones 
+
 - Uso de expresiones en los flujos
 - Las API Rest y los flujos
 - Creación de conectores personalizados
-- Flujos de trabajo basados en procesos de negocio
-- Administración de Power Automate
+- Conector de administración de Power Automate
+
+## Adminitración y auditoria
+
+- Compartir los flujos con los usuarios
+- Trouble shooting de flujos
 - DLP (Data Loss Prevention) en RPA
 - Auditoría de flujos
 - Información de estado de los flujos
