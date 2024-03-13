@@ -10,10 +10,9 @@
 ## Creación de flujos en Power Automate
 
 - Flujo desde cero
-- Flujos de botón 
-- Flujos programados
-- Flujos de aprobación
-
+- Flujos de botón: https://learn.microsoft.com/es-es/training/paths/get-started-power-automate-buttons/
+- Flujos programados: https://learn.microsoft.com/en-us/power-automate/run-scheduled-tasks?tabs=classic-designer
+- Flujos de aprobación: https://anyonecanautomate.com/power-automate-y-primeros-retos-con-el-conector-de-aprobaciones-49d9e89335b1
 ## APIs, conectores y expresiones 
 
 - Uso de expresiones en los flujos
